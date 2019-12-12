@@ -3,7 +3,7 @@
 	"displayName": "wollok-highlight",
 	"description": "Highlighting for Wollok language",
 	"publisher": "uqbar",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.37.0"
 	},
@@ -21,7 +21,10 @@
 				"extensions": [
 					".wlk",
 					".wtest",
-					".wpgm"
+					".wpgm",
+					".wlk.xt",
+					".wtest.xt",
+					".wpgm.xt",
 				],
 				"configuration": "./language-configuration.json"
 			}
