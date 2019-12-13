@@ -33,7 +33,7 @@
     "grammars": [
       {
         "language": "wollok",
-        "scopeName": "source.mysample",
+        "scopeName": "source.wollok",
         "path": "./syntaxes/wollok.textmate"
       }
     ]
