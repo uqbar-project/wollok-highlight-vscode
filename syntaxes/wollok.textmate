@@ -5,10 +5,10 @@
 <dict>
   <key>fileTypes</key>
   <array> 
-    <string>mysample</string>
+    <string>wollok</string>
    </array>
   <key>name</key>
-  <string>mysample</string>
+  <string>wollok</string>
   <key>patterns</key>
   <array> 
     <dict>
@@ -17,7 +17,7 @@
     </dict>
    </array>
   <key>scopeName</key>
-  <string>source.mysample</string>
+  <string>source.wollok</string>
   <key>uuid</key>
   <string></string>
   <key>repository</key>
@@ -25,7 +25,7 @@
     <key>main</key>
     <dict>
       <key>patterns</key>
-      <array> 
+      <array>
         <dict>
           <key>include</key>
           <string>#numeric</string>
@@ -38,7 +38,7 @@
             <key>1</key>
             <dict>
               <key>name</key>
-              <string>punctuation.mysample</string>
+              <string>keyword.operator.wollok</string>
             </dict>
           </dict>
           <key>patterns</key>
@@ -55,7 +55,7 @@
             <key>1</key>
             <dict>
               <key>name</key>
-              <string>punctuation.mysample</string>
+              <string>keyword.operator.wollok</string>
             </dict>
           </dict>
         </dict>
@@ -63,7 +63,7 @@
           <key>match</key>
           <string>(;)</string>
           <key>name</key>
-          <string>punctuation.mysample</string>
+          <string>keyword.operator.wollok</string>
         </dict>
         <dict>
           <key>begin</key>
@@ -73,11 +73,11 @@
             <key>1</key>
             <dict>
               <key>name</key>
-              <string>text.mysample</string>
+              <string>text.wollok</string>
             </dict>
           </dict>
           <key>contentName</key>
-          <string>text.mysample</string>
+          <string>text.wollok</string>
           <key>end</key>
           <string>(\&quot;|&apos;)</string>
           <key>endCaptures</key>
@@ -85,7 +85,7 @@
             <key>1</key>
             <dict>
               <key>name</key>
-              <string>text.mysample</string>
+              <string>string.wollok</string>
             </dict>
           </dict>
         </dict>
@@ -97,7 +97,7 @@
             <key>1</key>
             <dict>
               <key>name</key>
-              <string>punctuation.mysample</string>
+              <string>keyword.operator.wollok</string>
             </dict>
           </dict>
           <key>patterns</key>
@@ -114,7 +114,7 @@
             <key>1</key>
             <dict>
               <key>name</key>
-              <string>punctuation.mysample</string>
+              <string>keyword.operator.wollok</string>
             </dict>
           </dict>
         </dict>
@@ -126,13 +126,13 @@
           <key>match</key>
           <string>(//.*)</string>
           <key>name</key>
-          <string>comment.mysample</string>
+          <string>comment.wollok</string>
         </dict>
         <dict>
           <key>match</key>
           <string>\b(object|class|package|program|test|describe|method|override|constructor|native|var|const|property|inherits|new|if|else|self|super|import|null|true|false|return|throw|then always|try|catch|mixed with|with|mixin|fixture)\b</string>
           <key>name</key>
-          <string>keyword.mysample</string>
+          <string>keyword.wollok</string>
         </dict>
        </array>
     </dict>
@@ -164,7 +164,7 @@
           <key>match</key>
           <string>(,)</string>
           <key>name</key>
-          <string>punctuation.mysample</string>
+          <string>keyword.operator.wollok</string>
         </dict>
        </array>
     </dict>
@@ -180,11 +180,11 @@
             <key>1</key>
             <dict>
               <key>name</key>
-              <string>comment.mysample</string>
+              <string>comment.wollok</string>
             </dict>
           </dict>
           <key>contentName</key>
-          <string>comment.mysample</string>
+          <string>comment.wollok</string>
           <key>end</key>
           <string>(\*/)</string>
           <key>endCaptures</key>
@@ -192,7 +192,7 @@
             <key>1</key>
             <dict>
               <key>name</key>
-              <string>comment.mysample</string>
+              <string>comment.wollok</string>
             </dict>
           </dict>
         </dict>
@@ -212,7 +212,7 @@
           <key>match</key>
           <string>(\b\d+)</string>
           <key>name</key>
-          <string>constant.numeric.mysample</string>
+          <string>constant.numeric.wollok</string>
         </dict>
        </array>
     </dict>
