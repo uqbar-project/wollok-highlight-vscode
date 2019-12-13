@@ -9,7 +9,7 @@ This component solves highlighting for Wollok files:
 - tests & describes
 - wollok object & classes definitions
 
-![Demo](./images/demo.gif)
+![Demo](https://github.com/uqbar-project/wollok-highlight-vscode/blob/master/images/demo.gif)
 
 ## Help us!
 
