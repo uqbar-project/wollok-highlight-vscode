@@ -3,8 +3,12 @@
   "displayName": "wollok-highlight",
   "description": "Highlighting for Wollok language",
   "publisher": "uqbar",
-  "version": "0.0.2",
-  "icon": "images/wollokHighlightLogo.png",
+  "version": "0.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uqbar-project/wollok-highlight-vscode.git"
+  },
+  "icon": "images/gitlens-icon.png",
   "engines": {
     "vscode": "^1.37.0"
   },

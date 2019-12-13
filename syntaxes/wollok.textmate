@@ -73,11 +73,11 @@
             <key>1</key>
             <dict>
               <key>name</key>
-              <string>text.wollok</string>
+              <string>string.wollok</string>
             </dict>
           </dict>
           <key>contentName</key>
-          <string>text.wollok</string>
+          <string>string.wollok</string>
           <key>end</key>
           <string>(\&quot;|&apos;)</string>
           <key>endCaptures</key>

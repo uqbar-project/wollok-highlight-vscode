@@ -9,7 +9,7 @@ This component solves highlighting for Wollok files:
 - tests & describes
 - wollok object & classes definitions
 
-![Demo](https://github.com/uqbar-project/wollok-highlight-vscode/blob/master/images/demo.gif)
+![Demo](images/demo.gif)
 
 ## Help us!
 
@@ -20,9 +20,7 @@ Something could be improved? Found a bug? Please, [open an issue on GitHub](http
 - If you want to collaborate, [contact us!](mailto:wollok@uqbar.org)
 - There is also a [wiki](https://github.com/uqbar-project/wollok-highlight-vscode/wiki) documentation for developers
 
-## Changelog
+___
 
-We keep track of the changes in a [CHANGELOG file](./CHANGELOG.md)
-
-Copyright © 2019, ![Uqbar logo](./images/uqbarTransparentSmall.png) [Uqbar Foundation](http://www.uqbar.org/)
+Copyright © 2019, ![Uqbar logo](images/uqbarTransparentSmall.png) [Uqbar Foundation](http://www.uqbar.org/)
 
