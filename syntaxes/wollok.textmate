@@ -27,6 +27,12 @@
       <key>patterns</key>
       <array>
         <dict>
+          <key>match</key>
+          <string>@[A-Za-z]+</string>
+          <key>name</key>
+          <string>variable.wollok</string>
+        </dict>
+        <dict>
           <key>include</key>
           <string>#numeric</string>
         </dict>
@@ -86,35 +92,6 @@
             <dict>
               <key>name</key>
               <string>string.wollok</string>
-            </dict>
-          </dict>
-        </dict>
-        <dict>
-          <key>begin</key>
-          <string>(\()</string>
-          <key>beginCaptures</key>
-          <dict>
-            <key>1</key>
-            <dict>
-              <key>name</key>
-              <string>keyword.operator.wollok</string>
-            </dict>
-          </dict>
-          <key>patterns</key>
-          <array> 
-            <dict>
-              <key>include</key>
-              <string>#main__3</string>
-            </dict>
-           </array>
-          <key>end</key>
-          <string>(\))</string>
-          <key>endCaptures</key>
-          <dict>
-            <key>1</key>
-            <dict>
-              <key>name</key>
-              <string>keyword.operator.wollok</string>
             </dict>
           </dict>
         </dict>
