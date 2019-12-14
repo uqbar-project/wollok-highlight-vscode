@@ -17,7 +17,7 @@ Something could be improved? Found a bug? Please, [open an issue on GitHub](http
 
 ## Contributions
 
-- If you want to collaborate, [contact us!](mailto:wollok@uqbar.org)
+- If you want to collaborate, contact us! (sending a mail to wollok@uqbar.org)
 - There is also a [wiki](https://github.com/uqbar-project/wollok-highlight-vscode/wiki) documentation for developers
 
 ___
