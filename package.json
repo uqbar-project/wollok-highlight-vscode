@@ -1,21 +1,25 @@
 {
   "name": "wollok-highlight",
   "displayName": "wollok-highlight",
-  "license": "LGPL-3.0",
   "description": "Highlighting for Wollok language",
+  "author": "Uqbar Foundation",
+  "license": "LGPL-3.0",
   "publisher": "uqbar",
   "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/uqbar-project/wollok-highlight-vscode.git"
   },
+  "categories": [
+    "Programming Languages"
+  ],
+	"keywords": [
+    "highlight syntax coloring wollok oop educative objects learning"
+	],
   "icon": "images/wollokHighlightLogo.png",
   "engines": {
     "vscode": "^1.37.0"
   },
-  "categories": [
-    "Programming Languages"
-  ],
   "contributes": {
     "languages": [
       {

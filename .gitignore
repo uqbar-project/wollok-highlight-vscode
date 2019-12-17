@@ -2,3 +2,4 @@
 .vscode
 .vscodeignore
 .history
+node_modules
