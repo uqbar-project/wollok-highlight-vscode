@@ -107,7 +107,7 @@
           </dict>
           <dict>
             <key>match</key>
-            <string>\b(object|class|package|program|test|describe|method|override|constructor|native|var|const|property|inherits|new|if|else|self|super|import|null|true|false|return|throw|then|always|try|catch|mixed|with|mixin|fixture|only|and)\b</string>
+            <string>\b(object|class|package|program|test|describe|method|override|constructor|native|var|const|property|inherits|new|if|else|import|return|throw|then|always|try|catch|mixed|with|mixin|fixture|only|and)\b</string>
             <key>name</key>
             <string>keyword.wollok</string>
           </dict>
@@ -115,7 +115,13 @@
             <key>match</key>
             <string>(\@[A-Za-z]*)</string>
             <key>name</key>
-            <string>keyword.meta.wollok</string>
+            <string>meta.property-name</string>
+          </dict>
+          <dict>
+            <key>match</key>
+            <string>\b(self|super|null|true|false)\b</string>
+            <key>name</key>
+            <string>constant</string>
           </dict>
         </array>
       </dict>

@@ -9,7 +9,7 @@ This component solves highlighting for Wollok files:
 - tests & describes
 - wollok object & classes definitions
 
-![Demo](images/demo.gif)
+<img src="./images/demo2024.gif" height="500" width="auto">
 
 ## Help us!
 
