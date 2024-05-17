@@ -9,7 +9,7 @@ This component solves highlighting for Wollok files:
 - tests & describes
 - wollok object & classes definitions
 
-<img src="./images/demo2024.gif" height="500" width="auto">
+![Demo Wollok](./images/demo2024-big.gif)
 
 ## Help us!
 
@@ -22,5 +22,5 @@ Something could be improved? Found a bug? Please, [open an issue on GitHub](http
 
 ___
 
-Copyright © 2019, ![Uqbar logo](images/uqbarTransparentSmall.png) [Uqbar Foundation](http://www.uqbar.org/)
+Copyright © 2024, ![Uqbar logo](images/uqbarTransparentSmall.png) [Uqbar Foundation](http://www.uqbar.org/)
 
