@@ -26,4 +26,3 @@ All contributions are welcome!
 ___
 
 Copyright © 2024, ![Uqbar logo](./images/uqbarTransparentSmall.png) [Uqbar Foundation](http://www.uqbar.org/)
-
