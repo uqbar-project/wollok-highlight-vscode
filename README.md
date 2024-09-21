@@ -1,6 +1,6 @@
 # Highlighting for Wollok language
 
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/uqbar.wollok-highlight?label=Visual%20Studio%20Code%20Marketplace%20version&color=darkred) ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/uqbar.wollok-highlight?color=blue&label=installs) ![GitHub License](https://img.shields.io/github/license/uqbar-project/wollok-lsp-ide)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/uqbar.wollok-highlight?label=Visual%20Studio%20Code%20Marketplace%20version&color=red) ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/uqbar.wollok-highlight?color=blue&label=installs) ![GitHub License](https://img.shields.io/github/license/uqbar-project/wollok-lsp-ide)
 
 This component solves highlighting for Wollok files:
 
