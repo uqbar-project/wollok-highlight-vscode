@@ -1,7 +1,6 @@
 # Highlighting for Wollok language
 
-[![GNU General Public License](https://img.shields.io/badge/license-GPL%20v3-orange.svg?style=flat-square)](http://www.gnu.org/licenses/gpl-3.0.en.html) [![Version](https://vsmarketplacebadges.dev/version/uqbar.wollok-highlight.svg)](https://vsmarketplacebadges.dev/version/uqbar.wollok-highlight.svg) [![Installs](https://vsmarketplacebadges.dev/installs-short/uqbar.wollok-highlight.svg)](https://vsmarketplacebadges.dev/installs-short/uqbar.wollok-highlight.svg)
-
+[![Version](https://vsmarketplacebadges.dev/version/uqbar.wollok-highlight.svg)](https://vsmarketplacebadges.dev/version/uqbar.wollok-highlight.svg) [![Installs](https://vsmarketplacebadges.dev/installs-short/uqbar.wollok-highlight.svg)](https://vsmarketplacebadges.dev/installs-short/uqbar.wollok-highlight.svg) ![GitHub License](https://img.shields.io/github/license/uqbar-project/wollok-lsp-ide)
 
 This component solves highlighting for Wollok files:
 
@@ -11,16 +10,20 @@ This component solves highlighting for Wollok files:
 
 ![Demo Wollok](./images/demo2024-big.gif)
 
-## Help us!
+## 🛟 Help us!
 
 Something could be improved? Found a bug? Please, [open an issue on GitHub](https://github.com/uqbar-project/wollok-highlight-vscode/issues/new). Screenshots & Gifs are welcome!
 
-## Contributions
+## 👩‍💻 Contributing
 
-- If you want to collaborate, contact us! (sending a mail to wollok@uqbar.org)
-- There is also a [wiki](https://github.com/uqbar-project/wollok-highlight-vscode/wiki) documentation for developers, if you want to publish the extension please refer to [this instructions](https://github.com/uqbar-project/wollok-highlight-vscode/wiki/Publishing-extension-to-VSC-Marketplace)
+All contributions are welcome!
+
+- See [installation instructions for developers](https://github.com/uqbar-project/wollok-highlight-vscode/wiki/Developing-Environment)
+- You can also [join the Discord channel!](https://discord.gg/ZstgCPKEaa)
+- You can fork the project and [create a *Pull Request*](https://help.github.com/articles/creating-a-pull-request-from-a-fork/). If you've never collaborated with an open source project before, you might want to read [this guide](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
+- Additional info is available at the [wiki](https://github.com/uqbar-project/wollok-highlight-vscode/wiki)
 
 ___
 
-Copyright © 2024, ![Uqbar logo](images/uqbarTransparentSmall.png) [Uqbar Foundation](http://www.uqbar.org/)
+Copyright © 2024, ![Uqbar logo](./images/uqbarTransparentSmall.png) [Uqbar Foundation](http://www.uqbar.org/)
 
