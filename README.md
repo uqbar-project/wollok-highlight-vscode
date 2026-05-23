@@ -1,6 +1,6 @@
 # Highlighting for Wollok language
 
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/uqbar.wollok-highlight?label=Visual%20Studio%20Code%20Marketplace%20version&color=red) ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/uqbar.wollok-highlight?color=blue&label=installs) ![GitHub License](https://img.shields.io/github/license/uqbar-project/wollok-lsp-ide)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/uqbar.wollok-highlight?label=Visual%20Studio%20Code%20Marketplace%20version&color=red) ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/uqbar.wollok-highlight?color=blue&label=installs) ![GitHub License](https://img.shields.io/github/license/uqbar-project/wollok-highlight-vscode)
 
 This component solves highlighting for Wollok files:
 
@@ -26,4 +26,3 @@ All contributions are welcome!
 ___
 
 Copyright © 2024, ![Uqbar logo](./images/uqbarTransparentSmall.png) [Uqbar Foundation](http://www.uqbar.org/)
-
